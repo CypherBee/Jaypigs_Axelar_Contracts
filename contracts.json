@@ -1,0 +1,290 @@
+{
+    "Avalanche": {
+        "version": 2,
+        "address": "0x51b258c1D67F0Cc04d7cf9Fe9dE911DB1427947F",
+        "fee": "6",
+        "feeReceiver": "0x717013482fBF1c9655fF9e5442B861f10A81bF0c",
+        "linkers": [
+            {
+                "chain": "Polygon",
+                "address": "0xE22a8363E4Ed66d436D6521b176A8Ad3034018c6"
+            },
+            {
+                "chain": "binance",
+                "address": "0x51b258c1D67F0Cc04d7cf9Fe9dE911DB1427947F"
+            },
+            {
+                "chain": "Moonbeam",
+                "address": "0x7F7c6B8B9a9a9100818A6D189d3b44F72d7E6D6B"
+            }
+        ],
+        "whitelisted": [
+            {
+                "original": "0x98FAc30a5750E5d388Af2eBCD03FF3348e9Aaad3",
+                "copy": "0x4108d1b9Ac2F1D0f66C14cb188fc234d7e1A37Af"
+            },
+            {
+                "original": "0xfce2fF08DB317A3d90ABa0f7341f44f805a204dc",
+                "copy": "0x5377279B2B5E904e93e547753B976896cC2D491A"
+            },
+            {
+                "original": "0xeA804D231867B4cF870e99Bec5Ab194E0fcBA08C",
+                "copy": "0xd10c44CF7927446970Bb428F2D901Ef070d9cDce"
+            },
+            {
+                "original": "0x08aF32056B27fd0dA37a90DC8B72EB493A4eED44",
+                "copy": "0x03a54569FE72555a7Af72d1851f55278d9b6B622"
+            },
+            {
+                "original": "0x98FAc30a5750E5d388Af2eBCD03FF3348e9Aaad3",
+                "copy": "0x701F1cbE163eBdD4f343311C454141575fc365C4"
+            },
+            {
+                "original": "0xF5B2D7C56F3C1D086969DCC6bfaE74e86349Fe1B",
+                "copy": "0xE22a8363E4Ed66d436D6521b176A8Ad3034018c6"
+            },
+            {
+                "original": "0x0fb18f839f35638438efdea705e3d81ecbb75cd2",
+                "copy": "0x368E024F1744F0Be66d7808248FDB27E10Bc9306"
+            },
+            {
+                "original": "0x9a90BeaE95fe3086A92f9Dceacae7b6e04aB110a",
+                "copy": "0xCdCE9b3F30a93341951324eED0a4c0b23512f24E"
+            }
+        ],
+        "originalToken": [
+            {
+                "chain": "Polygon",
+                "address": "0xeA804D231867B4cF870e99Bec5Ab194E0fcBA08C"
+            },
+            {
+                "chain": "Polygon",
+                "address": "0x08aF32056B27fd0dA37a90DC8B72EB493A4eED44"
+            },
+            {
+                "chain": "binance",
+                "address": "0x98FAc30a5750E5d388Af2eBCD03FF3348e9Aaad3"
+            },
+            {
+                "chain": "Moonbeam",
+                "address": "0xF5B2D7C56F3C1D086969DCC6bfaE74e86349Fe1B"
+            },
+            {
+                "chain": "Polygon",
+                "address": "0x9a90beae95fe3086a92f9dceacae7b6e04ab110a"
+            }
+        ]
+    },
+    "Polygon": {
+        "version": 2,
+        "address": "0xE22a8363E4Ed66d436D6521b176A8Ad3034018c6",
+        "fee": "6",
+        "feeReceiver": "0x717013482fBF1c9655fF9e5442B861f10A81bF0c",
+        "linkers": [
+            {
+                "chain": "Avalanche",
+                "address": "0x51b258c1D67F0Cc04d7cf9Fe9dE911DB1427947F"
+            },
+            {
+                "chain": "binance",
+                "address": "0x51b258c1D67F0Cc04d7cf9Fe9dE911DB1427947F"
+            },
+            {
+                "chain": "Moonbeam",
+                "address": "0x7F7c6B8B9a9a9100818A6D189d3b44F72d7E6D6B"
+            }
+        ],
+        "whitelisted": [
+            {
+                "original": "0x98FAc30a5750E5d388Af2eBCD03FF3348e9Aaad3",
+                "copy": "0x35136265B140C1372C7836d8fFB3335dB150dFf0"
+            },
+            {
+                "original": "0xfce2fF08DB317A3d90ABa0f7341f44f805a204dc",
+                "copy": "0x035f41F629eE72Ce7e080e3A852BAb2437e6e8C5"
+            },
+            {
+                "original": "0xeA804D231867B4cF870e99Bec5Ab194E0fcBA08C",
+                "copy": "0x8b0E82AAb7E3b84c1a49786D79bcd29DA927713f"
+            },
+            {
+                "original": "0x08aF32056B27fd0dA37a90DC8B72EB493A4eED44",
+                "copy": "0xCdCE9b3F30a93341951324eED0a4c0b23512f24E"
+            },
+            {
+                "original": "0x98FAc30a5750E5d388Af2eBCD03FF3348e9Aaad3",
+                "copy": "0xfa78fEfc0fB7073602Ef9E2Ed87cC554840BDD96"
+            },
+            {
+                "original": "0xF5B2D7C56F3C1D086969DCC6bfaE74e86349Fe1B",
+                "copy": "0xFd46cAA0d86578e33956d2c223Ef868c20e6Db06"
+            },
+            {
+                "original": "0x9a90BeaE95fe3086A92f9Dceacae7b6e04aB110a",
+                "copy": "0x05ff5fA5f9655Ac7F88901ccfbd4333b9D7332a4"
+            }
+        ],
+        "originalToken": [
+            {
+                "chain": "Avalanche",
+                "address": "0x98FAc30a5750E5d388Af2eBCD03FF3348e9Aaad3"
+            },
+            {
+                "chain": "Avalanche",
+                "address": "0xfce2fF08DB317A3d90ABa0f7341f44f805a204dc"
+            },
+            {
+                "chain": "binance",
+                "address": "0x98FAc30a5750E5d388Af2eBCD03FF3348e9Aaad3"
+            },
+            {
+                "chain": "Moonbeam",
+                "address": "0xF5B2D7C56F3C1D086969DCC6bfaE74e86349Fe1B"
+            }
+        ]
+    },
+    "binance": {
+        "version": 2,
+        "address": "0x51b258c1D67F0Cc04d7cf9Fe9dE911DB1427947F",
+        "fee": "6",
+        "feeReceiver": "0x717013482fBF1c9655fF9e5442B861f10A81bF0c",
+        "linkers": [
+            {
+                "chain": "Avalanche",
+                "address": "0x51b258c1D67F0Cc04d7cf9Fe9dE911DB1427947F"
+            },
+            {
+                "chain": "Polygon",
+                "address": "0xE22a8363E4Ed66d436D6521b176A8Ad3034018c6"
+            },
+            {
+                "chain": "Moonbeam",
+                "address": "0x7F7c6B8B9a9a9100818A6D189d3b44F72d7E6D6B"
+            }
+        ],
+        "whitelisted": [
+            {
+                "original": "0x98FAc30a5750E5d388Af2eBCD03FF3348e9Aaad3",
+                "copy": "0x2c551F82E9067Dc2d4725092dCf58747bD445f1b"
+            },
+            {
+                "original": "0xfce2fF08DB317A3d90ABa0f7341f44f805a204dc",
+                "copy": "0x5377279B2B5E904e93e547753B976896cC2D491A"
+            },
+            {
+                "original": "0xeA804D231867B4cF870e99Bec5Ab194E0fcBA08C",
+                "copy": "0x367720D05540780BcDf745Ee23A318d6f8B06847"
+            },
+            {
+                "original": "0x08aF32056B27fd0dA37a90DC8B72EB493A4eED44",
+                "copy": "0xDB67f26Aa12782Cf9eA62e81c73ef5e1c957fc28"
+            },
+            {
+                "original": "0x98FAc30a5750E5d388Af2eBCD03FF3348e9Aaad3",
+                "copy": "0xcBf6c412b25910D36549Bd12730Ac2ED14c30492"
+            },
+            {
+                "original": "0xF5B2D7C56F3C1D086969DCC6bfaE74e86349Fe1B",
+                "copy": "0x8A190d8a9b550d872D932346Ee9881E0B7998172"
+            },
+            {
+                "original": "0x9a90BeaE95fe3086A92f9Dceacae7b6e04aB110a",
+                "copy": "0xfc48b8313429e71F639B0e3B4384c2833bB7b33c"
+            }
+        ],
+        "originalToken": [
+            {
+                "chain": "Avalanche",
+                "address": "0x98FAc30a5750E5d388Af2eBCD03FF3348e9Aaad3"
+            },
+            {
+                "chain": "Avalanche",
+                "address": "0xfce2fF08DB317A3d90ABa0f7341f44f805a204dc"
+            },
+            {
+                "chain": "Polygon",
+                "address": "0xeA804D231867B4cF870e99Bec5Ab194E0fcBA08C"
+            },
+            {
+                "chain": "Polygon",
+                "address": "0x08aF32056B27fd0dA37a90DC8B72EB493A4eED44"
+            },
+            {
+                "chain": "Moonbeam",
+                "address": "0xF5B2D7C56F3C1D086969DCC6bfaE74e86349Fe1B"
+            },
+            {
+                "chain": "Polygon",
+                "address": "0x9a90beae95fe3086a92f9dceacae7b6e04ab110a"
+            }
+        ]
+    },
+    "Moonbeam": {
+        "version": 1,
+        "address": "0x7F7c6B8B9a9a9100818A6D189d3b44F72d7E6D6B",
+        "fee": "6",
+        "feeReceiver": "0x717013482fBF1c9655fF9e5442B861f10A81bF0c",
+        "linkers": [
+            {
+                "chain": "Avalanche",
+                "address": "0x51b258c1D67F0Cc04d7cf9Fe9dE911DB1427947F"
+            },
+            {
+                "chain": "binance",
+                "address": "0x51b258c1D67F0Cc04d7cf9Fe9dE911DB1427947F"
+            },
+            {
+                "chain": "Polygon",
+                "address": "0xE22a8363E4Ed66d436D6521b176A8Ad3034018c6"
+            }
+        ],
+        "whitelisted": [
+            {
+                "original": "0xF5B2D7C56F3C1D086969DCC6bfaE74e86349Fe1B",
+                "copy": "0xfce2fF08DB317A3d90ABa0f7341f44f805a204dc"
+            },
+            {
+                "original": "0xfce2fF08DB317A3d90ABa0f7341f44f805a204dc",
+                "copy": "0x5377279B2B5E904e93e547753B976896cC2D491A"
+            },
+            {
+                "original": "0xeA804D231867B4cF870e99Bec5Ab194E0fcBA08C",
+                "copy": "0xd10c44CF7927446970Bb428F2D901Ef070d9cDce"
+            },
+            {
+                "original": "0x08aF32056B27fd0dA37a90DC8B72EB493A4eED44",
+                "copy": "0x03a54569FE72555a7Af72d1851f55278d9b6B622"
+            },
+            {
+                "original": "0x98FAc30a5750E5d388Af2eBCD03FF3348e9Aaad3",
+                "copy": "0xe21DAdDDED578eFcD92006217d840F2a04c96FD4"
+            },
+            {
+                "original": "0x9a90BeaE95fe3086A92f9Dceacae7b6e04aB110a",
+                "copy": "0x18d43Fb713440d45d68eB561AA8769df2C4B7f45"
+            }
+        ],
+        "originalToken": [
+            {
+                "chain": "Avalanche",
+                "address": "0xfce2fF08DB317A3d90ABa0f7341f44f805a204dc"
+            },
+            {
+                "chain": "Polygon",
+                "address": "0xeA804D231867B4cF870e99Bec5Ab194E0fcBA08C"
+            },
+            {
+                "chain": "Polygon",
+                "address": "0x08aF32056B27fd0dA37a90DC8B72EB493A4eED44"
+            },
+            {
+                "chain": "binance",
+                "address": "0x08aF32056B27fd0dA37a90DC8B72EB493A4eED44"
+            },
+            {
+                "chain": "Polygon",
+                "address": "0x9a90beae95fe3086a92f9dceacae7b6e04ab110a"
+            }
+        ]
+    }
+}

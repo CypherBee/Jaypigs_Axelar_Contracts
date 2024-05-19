@@ -1,0 +1,7 @@
+node_modules
+artifacts
+cache
+jaypigs-satellite.code-workspace
+.env
+.openzeppelin
+.vscode
